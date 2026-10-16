@@ -31,8 +31,7 @@ Esse é um dos meus projetos durante meus estudos de programação.
 
 Ainda estou aprendendo e pretendo continuar evoluindo o HelpFlow conforme eu aprender novas tecnologias e conceitos.
 
-No futuro, pretendo transformar o projeto em algo mais completo, podendo adicionar uma interface gráfica ou até uma versão que funcione pelo navegador.
-
+  
 ## Desenvolvedora
 
-**Anna Jhulie**
+  **Anna Jhulie**
