@@ -23,7 +23,13 @@ O projeto foi criado para praticar conceitos de Python e, ao mesmo tempo, constr
 
 ## Como funciona
 
-O HelpFlow funciona pelo terminal. Os chamados são armazenados em um arquivo `chamados.json`, permitindo que os dados continuem salvos mesmo depois que o programa é fechado.
+O HelpFlow permite gerenciar chamados por meio de uma interface gráfica simples e intuitiva.
+
+1. **Abrir chamado:** informe o título e a descrição do problema.
+2. **Ver detalhes:** selecione um chamado para consultar suas informações.
+3. **Resolver chamado:** altere o status para “Resolvido” quando o problema for solucionado.
+4. **Excluir chamado:** remova chamados que já foram resolvidos, após confirmar a exclusão.
+5. **Salvar dados:** os chamados são armazenados em um arquivo JSON, permitindo que continuem disponíveis ao reabrir o programa.
 
 ## Sobre o projeto
 
